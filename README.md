@@ -86,17 +86,12 @@ python -m unittest discover -s api/tests -v
 ```
 
 ## 📅 Roadmap
- CLI rules engine
-
- FastAPI with CSV input
-
- Add JSON input support
-
- Build React + TypeScript frontend
-
- GUI rule configurator for non-technical users
-
- Persistent database support (PostgreSQL)
+[x] CLI rules engine
+[x]FastAPI with CSV input
+[ ]Add JSON input support
+[ ]Build React + TypeScript frontend
+[ ]GUI rule configurator for non-technical users
+[ ]Persistent database support (PostgreSQL)
 
 ## 🧭 System Architecture Overview
 

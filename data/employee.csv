@@ -1,0 +1,8 @@
+id,name,shift,rest_days,on_medical_leave,on_vacation,worked_ot_yesterday,exclude_from_ot,role_type
+1,Jane Doe,1st,"Tue,Wed",False,False,False,False,signal
+2,Sam Green,2nd,"Sat,Sun",True,False,False,False,signal
+3,Casey Ray,3rd,"Mon,Tue",False,True,True,False,welder
+4,Alex Black,1st,"Thu,Fri",False,False,False,True,signal
+5,Maria White,2nd,"Wed,Thu",False,False,False,False,welder
+6,Tom Blue,3rd,"Sun,Mon",False,False,False,False,signal
+7,Linda Grey,1st,"Tue,Wed",False,False,False,False,welder

@@ -98,7 +98,7 @@ python -m unittest discover -s api/tests -v
 
  Persistent database support (PostgreSQL)
 
- ## 🧭 System Architecture Overview
+## 🧭 System Architecture Overview
 
 ```mermaid
                        ┌────────────────────────┐

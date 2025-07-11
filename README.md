@@ -16,7 +16,7 @@ A rules-based scheduling tool for determining employee eligibility for overtime 
 ---
 
 ## 📦 Project Structure
-
+```bash
 ot-call-rotator/
 ├── data/ # Sample CSVs
 ├── rules/ # Modular rule files
@@ -27,8 +27,8 @@ ot-call-rotator/
 ├── rule_e.py # RuleEngine core
 ├── main.py # CLI entry point
 └── requirements.txt # Dependencies
+```
 
----
 
 ## ⚙️ Installation
 
